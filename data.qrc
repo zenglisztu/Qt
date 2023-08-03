@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>src/matplotlib.png</file>
+    <file>src/sgs.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,359 @@
+PdfToWord_autogen/timestamp: \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCInformation.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCXXInformation.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeFindDependencyMacro.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeGenericSystem.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCInformation.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CheckCXXCompilerFlag.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CheckCXXSourceCompiles.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CheckIncludeFile.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CheckLibraryExists.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/MSVC-C.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/MSVC-CXX.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/MSVC.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/FindThreads.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/FindVulkan.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/GNUInstallDirs.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/Internal/CheckCompilerFlag.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/Internal/CheckFlagCommonConfig.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-MSVC-C.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-MSVC-CXX.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-MSVC.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows.cmake \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake \
+  D:/cCode/clionproject/PdfToWord/CMakeLists.txt \
+  CMakeFiles/3.25.2/CMakeCCompiler.cmake \
+  CMakeFiles/3.25.2/CMakeCXXCompiler.cmake \
+  CMakeFiles/3.25.2/CMakeRCCompiler.cmake \
+  CMakeFiles/3.25.2/CMakeSystem.cmake \
+  D:/cCode/clionproject/PdfToWord/convertthred.cpp \
+  D:/cCode/clionproject/PdfToWord/convertthred.h \
+  D:/cCode/clionproject/PdfToWord/main.cpp \
+  D:/cCode/clionproject/PdfToWord/mainwindow.cpp \
+  D:/cCode/clionproject/PdfToWord/mainwindow.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/QObject \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/QThread \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/q20memory.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/q20type_traits.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qalgorithms.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qanystringview.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qarraydata.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qarraydataops.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qarraydatapointer.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qassert.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qatomic.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qatomic_cxx11.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qbasicatomic.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qbindingstorage.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qbytearray.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qbytearrayalgorithms.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qbytearraylist.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qbytearrayview.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qcalendar.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qchar.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qcompare.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qcompare_impl.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qcompilerdetection.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qconfig.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qconstructormacros.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qcontainerfwd.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qcontainerinfo.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qcontainertools_impl.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qcontiguouscache.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qdarwinhelpers.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qdatastream.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qdatetime.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qdeadlinetimer.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qdebug.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qdir.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qelapsedtimer.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qexceptionhandling.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qfile.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qfiledevice.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qfileinfo.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qflags.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qfloat16.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qforeach.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qfunctionpointer.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qgenericatomic.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qglobal.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qglobalstatic.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qhash.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qhashfunctions.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qiodevice.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qiodevicebase.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qiterable.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qiterator.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qline.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qlist.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qlocale.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qlogging.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qmalloc.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qmap.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qmargins.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qmath.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qmetacontainer.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qmetatype.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qminmax.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qnamespace.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qnumeric.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qobject.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qobject_impl.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qobjectdefs.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qobjectdefs_impl.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qoverload.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qpair.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qpoint.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qprocessordetection.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qrect.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qrefcount.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qscopedpointer.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qscopeguard.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qset.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qshareddata.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qshareddata_impl.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qsharedpointer.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qsharedpointer_impl.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qsize.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qstring.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qstringalgorithms.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qstringconverter_base.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qstringfwd.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qstringlist.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qstringliteral.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qstringmatcher.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qstringtokenizer.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qstringview.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qswap.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qsysinfo.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qsystemdetection.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtaggedpointer.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtclasshelpermacros.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtconfigmacros.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtcore-config.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtcoreexports.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtdeprecationmarkers.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtenvironmentvariables.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtextstream.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qthread.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtmetamacros.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtnoop.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtpreprocessorsupport.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtresource.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qttranslation.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qttypetraits.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtversion.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtversionchecks.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtypeinfo.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qtypes.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qurl.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qutf8stringview.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qvariant.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qvarlengtharray.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qversiontagging.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtCore/qxptype_traits.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/QIcon \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/QPainter \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qaction.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qbitmap.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qbrush.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qcolor.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qcursor.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qfont.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qfontinfo.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qfontmetrics.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qicon.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qimage.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qkeysequence.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qpaintdevice.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qpainter.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qpalette.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qpen.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qpixelformat.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qpixmap.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qpolygon.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qregion.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qrgb.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qrgba64.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qtextoption.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qtgui-config.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qtguiexports.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qtguiglobal.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qtransform.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qwindowdefs.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtGui/qwindowdefs_win.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/QFileDialog \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/QMainWindow \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/qdialog.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/qfiledialog.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/qmainwindow.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/qsizepolicy.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/qtabwidget.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/qtwidgetsexports.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/qwidget.h \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/FindWrapAtomic.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6Dependencies.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6Targets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtFeature.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtFeatureCommon.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Core/QtInstallPaths.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersion.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersionImpl.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateVersionlessTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-debug.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-relwithdebinfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateAdditionalTargetInfo.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfig.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersion.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
+  E:/cppPackage/Qt6/6.5.2/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessTargets.cmake \
+  D:/cCode/clionproject/PdfToWord/mainwindow.ui \
+  D:/Program\ Files/clion/CLion\ 2023.1.3/bin/cmake/win/x64/bin/cmake.exe
