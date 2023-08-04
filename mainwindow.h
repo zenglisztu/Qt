@@ -31,6 +31,7 @@ public:
     ~MainWindow() override;
 
 signals:
+    void SendDocx(std::string& docx);
     void SendPath(std::string& pdf, std::string& scrip);
 public slots:
 

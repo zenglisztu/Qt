@@ -31,5 +31,22 @@ protected:
     void run() override;
 };
 
+class OpenThread : public QThread {
+Q_OBJECT
+
+public:
+    explicit OpenThread(QObject *parent = nullptr);
+
+    ~OpenThread() override;
+
+public slots:
+    void RecvDocx(std::string& docx);
+signals:
+    //void SendDoxc(std::string docx_p);
+private:
+    std::string docx_path;
+protected:
+    void run() override;
+};
 
 #endif //PDFTOWORD_CONVERTTHRED_H

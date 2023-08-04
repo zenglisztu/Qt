@@ -159,9 +159,9 @@ D:/cCode/clionproject/PdfToWord/mainwindow.h
  mdp:E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/qtwidgetsexports.h
  mdp:E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h
  mdp:E:/cppPackage/Qt6/6.5.2/msvc2019_64/include/QtWidgets/qwidget.h
-D:/cCode/clionproject/PdfToWord/main.cpp
 D:/cCode/clionproject/PdfToWord/mainwindow.cpp
  uic:ui_MainWindow.h
+D:/cCode/clionproject/PdfToWord/main.cpp
 D:/cCode/clionproject/PdfToWord/convertthred.h
  mmc:Q_OBJECT
  mdp:D:/cCode/clionproject/PdfToWord/convertthred.h

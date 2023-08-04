@@ -16,8 +16,10 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent), ui(new Ui::MainWi
     this->scrip_path = "../pdfToWord.py";
 
     ui->btn_docx->setEnabled(false);
-    //创建子进程
+    //创建子转换进程
     ConvertThread *pdf2d_thread = new ConvertThread(this);
+    //创建打开子进程
+    OpenThread *docx_open = new OpenThread(this);
     //绑定 Open按钮
     connect(ui->btn_open, &QPushButton::clicked, [=](){
         this->file_path = QFileDialog::getOpenFileName(this, "select", "C:/", "(*.pdf)");
@@ -26,10 +28,14 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent), ui(new Ui::MainWi
     //connect(ui->btn_start, &QPushButton::clicked, this, &MainWindow::StartConvert);
     //绑定打开docx按钮
     connect(ui->btn_docx, &QPushButton::clicked, [=](){
-       std::system(this->docx_path.c_str());
+        emit SendDocx(this->docx_path);
+        docx_open->start();
+
     });
-    //绑定主线程向子线程传递文件路径的信号和槽
+    //绑定主线程向转换子线程传递文件路径的信号和槽
     connect(this, &MainWindow::SendPath, pdf2d_thread, &ConvertThread::RecvDate);
+    //绑定主线程向打开主线程传递文件路径的信号和槽
+    connect(this, &MainWindow::SendDocx, docx_open, &OpenThread::RecvDocx);
     //绑定子线程向主线程返回的信息
     connect(pdf2d_thread, &ConvertThread::SendDoxc, this, &MainWindow::RecvDocx);
     //绑定Start按钮，开始执行子线程

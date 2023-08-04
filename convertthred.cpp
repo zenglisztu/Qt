@@ -43,3 +43,22 @@ void ConvertThread::run()
 ConvertThread::~ConvertThread() {
 
 }
+
+OpenThread::OpenThread(QObject *parent) : QThread (parent)
+{
+
+}
+void OpenThread::run()
+{
+    std::system(this->docx_path.c_str());
+}
+
+void OpenThread::RecvDocx(std::string& docx)
+{
+    this->docx_path = docx;
+}
+
+OpenThread::~OpenThread() noexcept
+{
+
+}
